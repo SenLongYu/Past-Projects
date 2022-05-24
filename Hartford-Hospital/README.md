@@ -1,4 +1,4 @@
-# [Latest Version of Construct 3 File](https://github.com/UAlbany-ECE-Design-Lab/Hartford-Hospital/blob/main/5_10_22.c3p)
+# [Latest Version of Construct 3 File](https://github.com/SenLongYu/Past-Projects/blob/main/Hartford-Hospital/5_10_22.c3p)
 1. Use the file 5_10_22.c3p as the latest version of the game 
 
 # [Instructions To Get You Started](https://youtu.be/gxqEbNHuPws)
