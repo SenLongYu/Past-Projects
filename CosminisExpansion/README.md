@@ -3,8 +3,8 @@
 ## Overview ##
 With the rise in popularity of metaverses, we are excited to announce our addition to it - Cosmini’s! A social media hub where users socialize and showcase their digital pets. Free from physical limits, users decide what their companion will be like; shapes and forms are checked only by their imagination! This application will allow users to sign in and register themselves. Trade, adopt and perform various activities with your pets. Most importantly, you can showcase your fluffy, scaly or ethereal companions to your friends and gain further resources for growing and expanding your team.
 
-_Suggested from Team Default_
-We present to you, an eccommerence marketplace built with an underlying social aspect and game for consumer interaction. Pulling from the familarity of gacha games, this is an ecommerce app focused on microtransactions. These microtransactions almost force a user to buy into the system to progress in a neopet esq. environment. A user can purchase gems, a resource not found in the game, to gain in game currency and food for their creatures. The gems also allow the user to enter a lottery where they can gain a large amount of resources for a small price of gems.
+## Expansion ##
+We present to you, an eccommerence marketplace built on top of the critically acclaimed social application. This expansion opened up the pathway for users to acquire gems - an unique and valuable resource that enable users to better customize their experience on the website. Detailed list of new features that came with this new expansion can be seen below.
 
 ## User Stories ##
 * Users should be able to obtain a companion.
@@ -94,6 +94,6 @@ We present to you, an eccommerence marketplace built with an underlying social a
 * Users
 
 ## ERD ##
-![Screenshot](P2_ERD_FinalFinal.png)
+![Screenshot](P3V2.png)
 
 
