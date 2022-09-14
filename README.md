@@ -1,5 +1,5 @@
 # Past-Projects
-Thank you for your visit, I hope you have a great time browsing some of the projects I have worked on in the past years.
+Thank you for your visit, I hope you have a great time browsing some of the projects I have worked on in the past years. Below are a short description of the projects, the details will be in the readme of each folder.
 
 # [Hartford Hospital](https://github.com/SenLongYu/Past-Projects/tree/main/Hartford-Hospital)
 Working closely with medical professionals at the [Hartford Hospital](https://hartfordhospital.org/) and game devs at [First Playable](http://www.1stplayable.com/), our goal is to develop a training app that can replace medical professional when training heart transplant patients on how to fill up their weekly medication box. This is an ongoing project, however I took a snap shot of the project when we were handing it off.
