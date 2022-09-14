@@ -1,0 +1,11 @@
+FROM mcr.microsoft.com/dotnet/sdk:6.0 as build
+WORKDIR /app
+COPY . .
+RUN dotnet clean WebAPI
+RUN dotnet publish WebAPI --configuration Release -o ./publish
+
+# Multi Stage Build
+FROM mcr.microsoft.com/dotnet/aspnet:6.0 as run
+WORKDIR /app
+COPY --from=build /app/publish .
+CMD [ "dotnet", "WebAPI.dll" ]
